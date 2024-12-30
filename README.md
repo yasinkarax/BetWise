@@ -1,5 +1,7 @@
 # Betwise
 
+This project is being developed with the assistance of GitHub Copilot, an AI-powered code completion tool that helps developers write code faster and with fewer errors.
+
 Betwise is a web application that collects data about football matches, teams, players, and weather conditions to predict match results and goal counts. This project utilizes Vue.js for the frontend, Node.js for the backend, and Python for data analysis and prediction.
 
 ## Project Structure
