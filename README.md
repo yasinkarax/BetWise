@@ -1,0 +1,1 @@
+BetWise predict goals or max-min score of a match, goal score of a player in different confidence levels.
