@@ -1,4 +1,4 @@
-##BetWise is a prediction tool designed to analyze football matches. It leverages historical data and parameters such as team performance, player statistics, and match-day weather to provide insights, including:
+BetWise is a prediction tool designed to analyze football matches. It leverages historical data and parameters such as team performance, player statistics, and match-day weather to provide insights, including:
 
 Predicted number of goals in a match.
 
